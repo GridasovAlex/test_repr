@@ -26,10 +26,12 @@ def random_predict(number:int=1) -> int:
         elif predict_number > number:
             maximum_boundary = predict_number # укорачиваем диопазон поиска по верхней границе
 
-        else:
-            break # выход из цикла, если угадали
+        elif count > 50: break
+
+        else: break # выход из цикла, если угадали
 
     return(count)
+
 
 def score_game(random_predict) -> int:
     """is the number of times our algorithm guesses the number. 1000 passes
@@ -52,5 +54,6 @@ def score_game(random_predict) -> int:
 
     print(f'the algorithm guesses the number on average in {score} tries')
     return(score)
+
 
 score_game(random_predict)
