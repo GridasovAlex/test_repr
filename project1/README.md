@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/GridasovAlex/test_repr/tree/main/project1#описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/GridasovAlex/test_repr/tree/main/project1#какой-кейс-решаем?)
+
 [3. Краткая информация о данных](https://github.com/GridasovAlex/test_repr/tree/main/project1#краткая-информация-о-данных)
+
 [4. Этапы работы над проектом](https://github.com/GridasovAlex/test_repr/tree/main/project1#этапы-работы-над-проектом)
+
 [5. Результат](https://github.com/GridasovAlex/test_repr/tree/main/project1#результаты)
+
 [6. Выводы](https://github.com/GridasovAlex/test_repr/tree/main/project1#выводы)
 
 ### Описание проекта
