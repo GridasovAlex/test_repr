@@ -23,7 +23,7 @@
 3) Выполнение заданий в формате код-вывод
 
 ### Результаты:
-превелен в [notebook](https://github.com/GridasovAlex/test_repr/tree/main/project1/notebook.ipynb)
+превелен в [notebook](https://github.com/GridasovAlex/test_repr/tree/main/project2/notebook.ipynb)
 
 ### Выводы:
 Я закрепил полученные в ходе выполнения модуля знания о визуализации данных в Python.
