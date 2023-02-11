@@ -7,7 +7,7 @@
 
 [3. Этапы работы над проектом](https://github.com/GridasovAlex/test_repr/tree/main/project2#Этапы-работы-над-проектом)
 
-[4. Результат](https://github.com/GridasovAlex/test_repr/tree/main/project2Результат)
+[4. Результаты](https://github.com/GridasovAlex/test_repr/tree/main/project2Результаты)
 
 [5. Выводы](https://github.com/GridasovAlex/test_repr/tree/main/project2#Выводы)
 
