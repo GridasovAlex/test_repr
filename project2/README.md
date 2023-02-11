@@ -7,9 +7,9 @@
 
 [3. Этапы работы над проектом](https://github.com/GridasovAlex/test_repr/tree/main/project2#Этапы-работы-над-проектом)
 
-[4. Результаты:](https://github.com/GridasovAlex/test_repr/tree/main/project2Результаты:)
+[4. Результаты:](https://github.com/GridasovAlex/test_repr/tree/main/project2Результаты)
 
-[5. Выводы:](https://github.com/GridasovAlex/test_repr/tree/main/project2#Выводы:)
+[5. Выводы:](https://github.com/GridasovAlex/test_repr/tree/main/project2#Выводы)
 
 ### Описание проекта
 Выпполняю задания по построению диаграмм по предоставленным данным из файла csv формата
@@ -22,8 +22,8 @@
 2) фильтрация данных
 3) Выполнение заданий в формате код-вывод
 
-### Результаты:
+### Результаты
 превелен в [notebook](https://github.com/GridasovAlex/test_repr/tree/main/project2/notebook.ipynb)
 
-### Выводы:
+### Выводы
 Я закрепил полученные в ходе выполнения модуля знания о визуализации данных в Python.
